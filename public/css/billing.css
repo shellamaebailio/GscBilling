@@ -1,0 +1,27 @@
+#app{
+    width: 100%;
+}
+.color-red{
+    color: red;
+}
+.full-width{
+    width: 100%;
+}
+.float-right{
+    float: right;
+}
+.modal-buttons{
+    margin: 0px 6px;
+}
+float-left{
+    float: left;
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
+.brown{
+    color: rgba(28, 141, 28, 0.822);
+}
